@@ -9,5 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-  }
+    "vite": "^8.0.12"
+  },
+  "dependencies": {}
 }
